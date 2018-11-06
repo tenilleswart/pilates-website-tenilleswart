@@ -1,0 +1,58 @@
+p{
+	font-size: 20px;
+}
+
+/* INDEXT PAGE */
+
+.call-out-number{
+	color: white;
+}
+
+.number{
+	margin-top: 20px;
+    /*background: #013b80;*/
+    padding: 10px;
+    text-align: center;
+}
+
+.call-bg{
+	background: #013b80;
+	color: white;
+	padding: 10px;
+}
+
+.header-image{
+	background: url("../images/pilates1.jpg") no-repeat center center /cover;
+	height: 680px; 
+	
+}
+.icon{
+	margin-right: 10px;
+
+}
+
+.navbar-default .navbar-nav>.active>a{
+	    color: #e6e6e6;
+    background-color: #0521ea;
+
+}
+
+.navbar-default .navbar-nav>li>a{
+	    color: #f5f0f0;
+    background-color: #0e0e0e;
+}
+
+.navbar ul{
+	width:100%;
+	margin-top: -1px;
+}
+
+.nav>li{
+	width:100%;
+	text-align: center;
+}
+
+.navbar .container-fluid{
+	padding-right: 15px;
+    padding-left: 15px;
+}
