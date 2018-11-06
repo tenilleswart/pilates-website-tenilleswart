@@ -1,0 +1,39 @@
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	.nav>li{
+		width:25%;
+	}
+	.navbar .container-fluid{
+		padding-right: 0px;
+	    padding-left: 0px;  
+	}
+
+	.navbar-collapse{
+		padding-right: 0px;
+	    padding-left: 0px;
+	}
+	.number{
+		text-align:right;
+	}
+
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	.direction{
+		text-align: left;
+	}
+	.about.me{
+		text-align: left;
+	}
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
+
+
+
+section{
+	margin-top: 50px;
+	margin-bottom:100px;
+}
