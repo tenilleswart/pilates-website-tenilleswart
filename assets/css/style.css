@@ -104,3 +104,28 @@ p{
 .text-under-image{
 	margin-top: 20px;
 }
+
+/* CLASSES PAGE */
+
+
+
+.table-box{
+	background: black;
+	    padding: 6px;
+	    margin-top: 20px;
+}
+
+.table-box p{
+	color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.table-headings{
+	    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+/*.table-box-last{
+	margin-right: 0px;
+}*/
